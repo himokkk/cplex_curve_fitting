@@ -43,3 +43,9 @@ Each model is cleaned up before moving to the next one to reuse the same `IloMod
 
 ```bash
 g++ -std=c++17 -I/path/to/cplex/include -L/path/to/cplex/lib/x86-64_linux -o curve_fitting main.cpp -lilocplex -lcplex -lconcert -lm -lpthread
+```
+
+## 🧪Results
+
+![image](https://github.com/user-attachments/assets/934a0271-30f0-480e-b086-eef5300e9d76)
+
